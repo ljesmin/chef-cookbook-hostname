@@ -1,5 +1,9 @@
 # Change History
 
+0.5.0 (2015-11-30)
+==================
+ - Support for Centos 7
+
 0.4.0 (2015-03-16)
 ==================
  - #40: Use file resources with lazy eval and notifies to prevent network restarts from occurring on every chef run (Matt Kasa)
